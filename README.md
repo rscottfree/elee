@@ -8,6 +8,12 @@ Inspired by text-based interfaces with fast keyboard navigation and rendering.
 
 ![second screenshot](front/elee2.png)
 
+-----
+## Demo
+[https://rscottfree.github.io/elee/](https://rscottfree.github.io/elee/)
+
+-----
+## Run it
 To run yourself: clone the repo and
 
 ```bash
